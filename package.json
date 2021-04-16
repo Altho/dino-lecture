@@ -1,0 +1,16 @@
+{
+  "name": "dino-lecture",
+  "version": "0.1.0",
+  "description": "Soutien de lecture destiné aux jeunes lecteurs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Lecture",
+    "sons",
+    "apprentissage"
+  ],
+  "author": "Alan Thomas",
+  "license": "MIT"
+}
